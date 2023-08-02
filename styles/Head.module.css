@@ -1,0 +1,11 @@
+.title {
+  font-size: 2.5rem;
+  font-weight: bolder;
+  color: #333;
+}
+.title span {
+  color: blue;
+}
+.subTitle {
+  color: #333;
+}
