@@ -1,4 +1,4 @@
-import styles from "@/styles/head.module.css";
+import styles from "@/styles/Head.module.css";
 function Head() {
   return (
     <>
